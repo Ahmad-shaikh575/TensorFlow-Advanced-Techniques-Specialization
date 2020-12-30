@@ -10,8 +10,8 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
 
 ## Course 2: Custom and Distributed Training with TensorFlow
 
-* [Week 1 - Differentiation and Gradients](https://github.com/Ahmad-shaikh575/TensorFlow-Advanced-Techniques-Specialization)
+* [Week 1 - Differentiation and Gradients](https://github.com/Ahmad-shaikh575/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%202/Week%201) 
 
-* [Week 2 - Custom Training](https://github.com/Ahmad-shaikh575/TensorFlow-Advanced-Techniques-Specialization)
+* [Week 2 - Custom Training](https://github.com/Ahmad-shaikh575/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%202/Week%202)
 
 * [Week 3 - Graph Mode](https://github.com/Ahmad-shaikh575/TensorFlow-Advanced-Techniques-Specialization) 
